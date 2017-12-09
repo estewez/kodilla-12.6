@@ -1,7 +1,7 @@
 {
-  "name": "kodilla-task-12.5",
+  "name": "kodilla-task-12.6",
   "version": "1.0.0",
-  "description": "taks 12.5",
+  "description": "taks 12.6",
   "main": "index.html",
   "dependencies": {
     "grunt-browser-sync": "^2.2.0",
@@ -25,15 +25,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/estewez/kodilla-12.5.git"
+    "url": "https://github.com/estewez/kodilla-12.6.git"
   },
   "keywords": [
-    "kodilla-12.5"
+    "kodilla-12.6"
   ],
   "author": "Tomasz Pajor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/estewez/kodilla-12.5/issues"
+    "url": "https://github.com/estewez/kodilla-12.6/issues"
   },
-  "homepage": "https://github.com/estewez/kodilla-12.5#readme"
+  "homepage": "https://github.com/estewez/kodilla-12.6#readme"
 }
